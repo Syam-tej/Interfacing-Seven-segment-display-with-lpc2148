@@ -1,5 +1,5 @@
 # Interfacing-Seven-segment-display-with-lpc2148
-
+```
 Name:P SYAM TEJ	
 Roll no:212221240056 
 ```
